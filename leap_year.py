@@ -3,9 +3,6 @@
 """
 
 Kenneth Levi Pack
-Student ID:800137008
-Homework 2 
-Problem 3 (Leap Year)
 
 """
 
