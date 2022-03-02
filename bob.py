@@ -23,7 +23,7 @@ def hey(phrase):
     else:
         print("Whatever.") # Respoding to anything else 
 
-hey("fuck.")
+hey("Bob.")
 
 
 
