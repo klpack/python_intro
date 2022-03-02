@@ -1,7 +1,6 @@
 # This program is about bob the teenager responding to different text phrases
 # Kenneth Levi Pack
-# IE 331
-# Problem 2
+
 
 
 def hey(phrase):
